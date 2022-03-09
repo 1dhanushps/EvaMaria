@@ -12,7 +12,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 -  a open source project. 
-- Group - 
+- Group - <a href=https://t.me/TgmoviesBot2_0>Click</a>
 
 <b>DEVS:</b>
 - <a href=https://t.me/battleshipmovies01> Battleship Movies</a>"""
